@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+.container-carro {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: #6b5b4c;
+}
+.cart-art {
+  font-size: 38px;
+  color: #fff;
+  opacity: 0.8;
+  font-family: "Lobster", sans-serif;
+}
+.cart-price {
+  font-size: 24px;
+  padding: 18px;
+  margin: 20px auto;
+  color: #fff;
+}
+.btn-carro {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  justify-content: space-around;
+}
+.compra-carro {
+  font-size: 18px;
+  width: 120px;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: rgb(83, 148, 83);
+  color: #fff;
+  cursor: pointer;
+}
+.compra-carro:hover {
+  background-color: rgb(19, 230, 19);
+}
+.volver-carro {
+  font-size: 18px;
+  width: 120px;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: rgb(218, 59, 59);
+  color: #fff;
+  cursor: pointer;
+}
+.volver-carro:hover {
+  background-color: rgb(248, 11, 11);
+}

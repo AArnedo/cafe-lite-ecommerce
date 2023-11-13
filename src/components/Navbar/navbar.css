@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.nav-container {
+  position: sticky;
+  z-index: 3;
+  top: 0;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 12vh;
+  background-color: #080808;
+}
+.navbar-logo {
+  text-transform: uppercase;
+  justify-self: start;
+  margin-left: 50px;
+  color: #fff;
+  margin-top: 4vh;
+  cursor: pointer;
+}
+.seeHome {
+  text-decoration: none;
+}
+.cart-count {
+  color: #fff;
+  background-color: #443a31;
+  border: #fff solid 1px;
+  border-radius: 15px;
+  padding: 12px;
+}
+.seeCarrito {
+  font-size: 25px;
+  margin-right: 50px;
+  margin-top: 4vh;
+  cursor: pointer;
+  text-decoration: none;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Café Arabica",
+    "desc": "Granos de café Arabica de alta calidad.",
+    "price": 22000,
+    "imgUrl": "https://cafescarrion.com/wp-content/uploads/2021/02/arabica_superieur.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Café Espresso Italiano",
+    "desc": "Mezcla intensa de granos para un espresso fuerte.",
+    "price": 9990,
+    "imgUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_94264145/fee_786_587_png"
+  },
+  {
+    "id": 3,
+    "name": "Café Colombia Supremo",
+    "desc": "Café de origen único de las montañas de Colombia.",
+    "price": 23791,
+    "imgUrl": "https://www.modobarista.com/product_images/u/103/3__99981_tiny.png"
+  },
+  {
+    "id": 4,
+    "name": "Café Descafeinado",
+    "desc": "Disfruta del sabor sin cafeína.",
+    "price": 17400,
+    "imgUrl": "https://www.cafesoquendo.com/wp-content/uploads/2019/10/OQUENDO-GRANO500-Descafsmall-1.png"
+  },
+  {
+    "id": 5,
+    "name": "Café Molido para French Press",
+    "desc": "Molido grueso para una preparación perfecta en prensa francesa.",
+    "price": 6999,
+    "imgUrl": "https://tiendaviaggio.com.ar/cdn/shop/products/01_molido_viaggio_aa968d9e-17ad-4c9a-a763-e2297fa76931_2048x.jpg?v=1626964333"
+  },
+  {
+    "id": 6,
+    "name": "Café Etiopía Yirgacheffe",
+    "desc": "Un café único con notas florales y afrutadas.",
+    "price": 24500,
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_924744-MLA53590794528_022023-O.webp"
+  },
+  {
+    "id": 7,
+    "name": "Café Vietnamita Robusta",
+    "desc": "Robusto y con un toque de chocolate.",
+    "price": 14250,
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_896629-MLA70623188856_072023-O.webp"
+  },
+  {
+    "id": 8,
+    "name": "Café Cold Brew para Beber",
+    "desc": "Refrescante cold brew listo para disfrutar.",
+    "price": 2500,
+    "imgUrl": "https://beesbeez.com/wp-content/uploads/2021/11/cold-brew-natural.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Café Guatemalteco Antigua",
+    "desc": "Café de altura con notas de chocolate y cítricos.",
+    "price": 18000,
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_906096-MLA47101585631_082021-O.webp"
+  },
+  {
+    "id": 10,
+    "name": "Café Orgánico Certificado",
+    "desc": "Café cultivado de manera sostenible y orgánica.",
+    "price": 12590,
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_691062-MLA50368396462_062022-O.webp"
+  }
+]
